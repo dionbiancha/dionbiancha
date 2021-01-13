@@ -22,5 +22,15 @@
   <img alt="dionbiancha" src="https://github-readme-stats.codestackr.vercel.app/api?username=dionbiancha&show_icons=true&hide_border=true&theme=dark" width="430px" align="left"/>
 </h1>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
+
+Made with :heartpulse: by Dionei Bianchati :point_right: [![Get in touch! Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat-square&logo=Whatsapp&logoColor=white&link=http://wa.me/5545988269789)](http://wa.me/5545988269789)
+
 
 
