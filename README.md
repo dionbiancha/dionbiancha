@@ -20,14 +20,9 @@
 <hr>
 <h1 align="center">
   <img alt="dionbiancha" src="https://github-readme-stats.codestackr.vercel.app/api?username=dionbiancha&show_icons=true&hide_border=true&theme=dark" width="430px" align="left"/>
+  <img alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400px" align="right"/>
 </h1>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <hr>
 
 Made with :heartpulse: by Dionei Bianchati :point_right: [Get in touch!](http://wa.me/5545988269789)
