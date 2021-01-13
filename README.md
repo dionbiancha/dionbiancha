@@ -19,8 +19,8 @@
 
 <hr>
 <h1 align="center">
-  <img alt="dionbiancha" src="https://github-readme-stats.codestackr.vercel.app/api?username=dionbiancha&show_icons=true&hide_border=true&theme=dark" width="430px" align="left"/>
-  <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="150">
+  <img alt="dionbiancha" src="https://github-readme-stats.codestackr.vercel.app/api?username=dionbiancha&show_icons=true&hide_border=true&theme=dark" width="450px" align="left"/>
+  <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="180">
 </h1>
 
 <br>
