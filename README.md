@@ -1,6 +1,8 @@
 ### Hi there 👋 Welcome to my profile
 
 ![](https://visitor-badge.glitch.me/badge?page_id=dionbiancha.dionbiancha)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dionbiancha/)](https://www.linkedin.com/in/dionbiancha/)
+[![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat-square&logo=Whatsapp&logoColor=white&link=http://wa.me/5545988269789)](http://wa.me/5545988269789)
 
 ```javascript
   async user.index({
@@ -15,12 +17,6 @@
   });
   return response.status(201).send();
 ```
-
-#### Connect with me:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dionbiancha/)](https://www.linkedin.com/in/dionbiancha/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dionbiancha)](https://www.instagram.com/dionbiancha)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/dionbiancha)](https://twitter.com/dionbiancha)
-[![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat-square&logo=Whatsapp&logoColor=white&link=http://wa.me/5545988269789)](http://wa.me/5545988269789)
 
 <hr>
 <h1 align="center">
