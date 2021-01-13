@@ -17,12 +17,13 @@
   return response.status(201).send();
 ```
 
-<hr>
-<h1 align="center">
-  <img alt="dionbiancha" src="https://github-readme-stats.codestackr.vercel.app/api?username=dionbiancha&show_icons=true&hide_border=true&theme=dark" width="450px" align="left"/>
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300px" />
-</h1>
+<hr align="center">
+  <img alt="dionbiancha" src="https://github-readme-stats.codestackr.vercel.app/api?username=dionbiancha&show_icons=true&hide_border=true&theme=dark" height="400px" width="550px" align="left"/>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350px" height="200px" />
+</hr>
 
+<br>
+<br>
 <br>
 <br>
 <br>
