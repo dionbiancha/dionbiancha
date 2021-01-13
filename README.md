@@ -19,7 +19,7 @@
 
 <hr align="center">
   <img alt="dionbiancha" src="https://github-readme-stats.codestackr.vercel.app/api?username=dionbiancha&show_icons=true&hide_border=true&theme=dark" height="200px" width="450px" align="left"/>
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350px" height="200px" />
+  <img align="right" alt="GIF" src="https://res.cloudinary.com/dionbiancha/image/upload/v1610512607/github/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966_1_b30yju.gif" width="350px" height="200px" />
 </hr>
 
 <br>
