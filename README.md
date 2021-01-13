@@ -30,7 +30,7 @@
 <br>
 <hr>
 
-Made with :heartpulse: by Dionei Bianchati :point_right: [Get in touch!](http://wa.me/5545984289149)
+Made with :heartpulse: by Dionei Bianchati :point_right: [Get in touch!](http://wa.me/5545988269789)
 
 
 
