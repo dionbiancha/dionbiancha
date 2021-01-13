@@ -30,7 +30,8 @@
 <br>
 <hr>
 
-Made with :heartpulse: by Dionei Bianchati :point_right: [Get in touch!](https://img.shields.io/badge/-WhatsApp-green?style=flat-square&logo=Whatsapp&logoColor=white&link=http://wa.me/5545988269789)](http://wa.me/5545988269789)
+Made with :heartpulse: by Dionei Bianchati :point_right: [Get in touch!](http://wa.me/5545984289149)
+
 
 
 
