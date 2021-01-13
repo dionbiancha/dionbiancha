@@ -20,8 +20,7 @@
 
 <hr>
 <h1 align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dionbiancha&layout=compact&bg_color=ffffff&text_color=333333">
-  <img alt="txsoura" src="https://github-readme-stats.codestackr.vercel.app/api?username=dionbiancha&show_icons=true&hide_border=true&theme=dark" width="430px" align="right"/>
+  <img alt="dionbiancha" src="https://github-readme-stats.codestackr.vercel.app/api?username=dionbiancha&show_icons=true&hide_border=true&theme=dark" width="430px" align="right"/>
 </h1>
 
 
