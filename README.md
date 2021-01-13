@@ -20,9 +20,11 @@
 <hr>
 <h1 align="center">
   <img alt="dionbiancha" src="https://github-readme-stats.codestackr.vercel.app/api?username=dionbiancha&show_icons=true&hide_border=true&theme=dark" width="450px" align="left"/>
-  <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="180">
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300px" />
 </h1>
 
+<br>
+<br>
 <br>
 <br>
 <br>
